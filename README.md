@@ -1,1 +1,1 @@
-my dmenu build :)
+## Dmenu ❤ ~/
